@@ -1,0 +1,14 @@
+com.network.capturer
+com.skype
+com.skype.connector
+com.skype.connector.linux
+com.skype.connector.osx
+com.skype.connector.test
+com.skype.connector.win32
+com.skype.connector.windows
+com.skype.voip.protocol
+com.voip.steganography
+com.voip.steganography.packts
+com.voip.steganography.transfer
+com.voip.ui
+com.voip.ui.listener

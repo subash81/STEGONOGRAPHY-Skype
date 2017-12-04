@@ -1,0 +1,3 @@
+Communications over Skype contains encrypted packets of VOIP, noise and silence. 
+The Skype does not impose any silence suppression mechanism, which aids to the plot of transferring data in these packets. 
+This project institutes a steganographic method that utilizes Skype encrypted packets with silence as a means for covert communication.
